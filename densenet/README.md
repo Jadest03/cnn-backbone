@@ -1,4 +1,4 @@
-# ResNet Implementation
+# DenseNet Implementation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jadest03/cv-paper-study/blob/main/densenet/DenseNet_121_CIFAR.ipynb)
 
 ## 1. 개요 (Overview)
