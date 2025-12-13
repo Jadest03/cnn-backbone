@@ -7,7 +7,7 @@
 
 * **Title**: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 * **Link**: [Original Paper](https://arxiv.org/pdf/1704.04861)
-* **Blog Review**: [📄 ResNet 정리 블로그](https://velog.io/@jjadestarr/MobileNets-Efficient-Convolutional-Neural-Networks-for-Mobile-VisionApplications)
+* **Blog Review**: [📄 MobileNet 정리 블로그](https://velog.io/@jjadestarr/MobileNets-Efficient-Convolutional-Neural-Networks-for-Mobile-VisionApplications)
 
 ## 2. 구현 환경 (Environment)
 * **OS**: macOS
