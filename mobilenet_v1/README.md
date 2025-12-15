@@ -1,4 +1,4 @@
-# MobileNet_v1
+# MobileNet_v1 구현
 **바로 실행**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jadest03/cv-paper-study/blob/main/mobilenet_v1/MobileNet_v1_CIFAR.ipynb)
 
 ## 개요
@@ -12,7 +12,7 @@
 * **Framework**: PyTorch
 * **Dataset**: CIFAR-10
 
-## 결과
+## 학습 결과
 | Metric | Value |
 | :--- | :--- |
 | **Best Accuracy** | **91.27** |
