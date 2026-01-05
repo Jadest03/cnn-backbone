@@ -1,5 +1,5 @@
 # MobileNet_V2 구현
-**바로 실행**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jadest03/cv-paper-study/blob/main/mobilenet_v1/MobileNet_v1_CIFAR.ipynb)
+**바로 실행**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jadest03/cv-paper-study/blob/main/mobilenet_v2/MobileNet_V2_CIFAR10.ipynb)
 
 ## 개요
 * **제목**: MobileNetV2: Inverted Residuals and Linear Bottlenecks
