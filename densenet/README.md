@@ -1,5 +1,5 @@
 # DenseNet 구현
-**바로 실행**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jadest03/cv-paper-study/blob/main/densenet/DenseNet_121_CIFAR.ipynb)
+**바로 실행**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jadest03/cv-paper-study/blob/main/densenet/densenet.ipynb)
 
 ## 개요
 * **제목**: Densely Connected Convolutional Networks(DenseNet)
@@ -11,6 +11,9 @@
 * **Language**: Python 3.x
 * **Framework**: PyTorch
 * **Dataset**: CIFAR-10
+
+## 모델 구조
+해당 논문에 기반하여 DenseNet-121 모델을 구현하였고 DenseNet의 핵심 기반인 Growth rate, Transition layer 등을 구현하였습니다.
 
 ## 학습 결과
 | Metric | Value |
