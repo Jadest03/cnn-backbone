@@ -1,5 +1,5 @@
 # ResNet 구현
-**바로 실행**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jadest03/cv-paper-study/blob/main/resnet/ResNet_18_CIFAR.ipynb)
+**바로 실행**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jadest03/cv-paper-study/blob/main/resnet/resnet.ipynb)
 
 ## 개요
 * **제목**: Deep Residual Learning for Image Recognition (ResNet)
@@ -11,6 +11,9 @@
 * **Language**: Python 3.x
 * **Framework**: PyTorch
 * **Dataset**: CIFAR-10
+
+## 모델 구조
+논문에서 제안한 ResNet-18을 구현하였고 이미지 데이터 셋의 구조에 맞게 resize하여 학습을 진행했습니다.
 
 ## 학습 결과
 | Metric | Value |
