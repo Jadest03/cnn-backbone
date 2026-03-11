@@ -12,6 +12,10 @@
 * **Framework**: PyTorch
 * **Dataset**: CIFAR-10
 
+## 모델 구조
+MobileNet v1 모델은 비교적 가볍기 때문에 논문에서 제시한 Architecture을 그대로 따랐습니다.  
+단, CIFAR-10 Dataset을 사용하여 초기에 이미지를 Resize하였습니다.  
+
 ## 학습 결과
 | Metric | Value |
 | :--- | :--- |
